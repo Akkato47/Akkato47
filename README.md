@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Backend Developer from Russia.<br><br>- 🔭 I’m working as potato<br>- ⚡ In my free time I code?</p>
+<p align="left">I'm Backend Developer from Russia.<br><br>- 🔭 I’m working as potato<br>- ⚡ In my free time I code?<br>- 🤫 20 y.o.</p>
 
 ###
 
